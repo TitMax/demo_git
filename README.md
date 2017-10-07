@@ -1,1 +1,4 @@
-# demo_git
+demo_git
+========
+
+Une demo de git
